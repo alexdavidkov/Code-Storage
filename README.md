@@ -1,2 +1,2 @@
-# Code-Storage
+# Python-Quiz
 My first repository on GitHub
